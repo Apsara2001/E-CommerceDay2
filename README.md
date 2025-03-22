@@ -47,4 +47,10 @@ public class HelloController {
         return "Hello, Spring Boot!";
     }
 }
-#Screenshots
+```   
+
+## Screenshots
+![Screenshot 2025-03-22 111007](https://github.com/user-attachments/assets/1c907806-3e8a-4b54-9e41-6e3c2a5c7c8d)
+![Screenshot 2025-03-22 111024](https://github.com/user-attachments/assets/be91b303-f4a3-48ef-963b-edd852f700fa)
+
+
